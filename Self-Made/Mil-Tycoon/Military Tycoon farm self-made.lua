@@ -1,6 +1,6 @@
 _G.shootTarget = false
 
--- Change Vectors
+-- Change Vectors when u load game
 local ammoLimit = 17
 local reloadTime = 3.5
 local bps = 100 -- bullets per second
